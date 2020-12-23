@@ -55,7 +55,7 @@
           <v-row justify="space-between">
           <v-col>Bogota: Calle a#b-c Tel:544421418</v-col>  
           
-          <v-col> <a href="http://" class="accent--text">Repositorio</a></v-col>  
+          <v-col> <a href="https://github.com/Anfedz/Proyecto-final.git" class="accent--text">Repositorio</a></v-col>  
           </v-row>
            
 
